@@ -15,7 +15,11 @@ In this chat system, they can share photos, documents, links, etc. Users can cha
 
 ## Objective
 
-
+- Chit-chat on different projects and ideas.
+- Easy discussions on any projects and ideas.
+- Easy to interact with new people and share ideas and thoughts with them.
+- Short conversations and fun discussions in a modern way.
+- Easily share anything with your project partners, including photos, documents, links, etc.
 
 ## Collaboration and Contribution🤝🧑‍💻
 
