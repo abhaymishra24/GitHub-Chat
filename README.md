@@ -4,6 +4,7 @@
 GitHub is a cloud-based platform where you can store, share, and work together with others to write code. 
 Storing your code in a "repository" on GitHub allows you to: Showcase or share your work.
 Track and manage changes to your code over time.
+<br/>
 I am trying to build a chat system on the GitHub platform for discussions in groups and individually about projects and ideas.
 
 ![Standpickup logo](https://github.com/abhaymishra24/GitHub-Chat/blob/main/githubbb5.jpg)
