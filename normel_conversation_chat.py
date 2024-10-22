@@ -1,9 +1,10 @@
 
-
+# Casually talk with chat bot.
 
 import random
 
 # Predefined responses
+
 responses = [
     "That's interesting!",
     "Tell me more!",
@@ -18,7 +19,9 @@ responses = [
 
 def get_response(user_input):
     """Generate a response based on user input."""
+
     # You can add more complex logic here if needed
+    
     return random.choice(responses)
 
 def chat():
