@@ -24,8 +24,7 @@ def get_response(user_input):
     
     return random.choice(responses)
 
-def chat():
-    """Main function to run the chat system."""
+def chat():                                                        # Main function to run the chat system.
     print("Welcome to the Chat System! Type 'exit' to end the conversation.")
     
     while True:
