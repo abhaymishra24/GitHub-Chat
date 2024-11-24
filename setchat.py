@@ -31,7 +31,7 @@ def chat():                                                        # Main functi
         user_input = input("You: ")
         
         if user_input.lower() == 'exit':
-            print("Chat System: Goodbye! Have a great day!")
+            print("Chat System:Thankyou for chat")
             break
         
         response = get_response(user_input)
