@@ -30,10 +30,18 @@ def chat():                                                        # Main functi
     
     while True:
         user_input = input("You: ")
+        user_input = input("You: ")
         
         if user_input.lower() == 'exit':
             print("Chat System:Thankyou for chat")
             break
+        elif user_input.lower() == 'hi' or user_input.upper() == 'Hello':
+            print("Chat System: Hello! How can I assist you today?")
+            break
+        else:
+            print("Chat System: I am here to help you.")
+            
+
         
         response = get_response(user_input)
         print(f"Chat System: {response}")
