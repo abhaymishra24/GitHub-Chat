@@ -1,5 +1,5 @@
 
-## GitHub-Chat-System <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="java" width="30" height="30"/>
+## GitHub-Chat-System <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/>
 
 GitHub is a cloud-based platform where you can store, share, and work together with others to write code. 
 Storing your code in a "repository" on GitHub allows you to: Showcase or share your work.
