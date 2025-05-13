@@ -10,12 +10,10 @@ Track and manage changes to your code over time.
 ![Chat image](https://github.com/abhaymishra24/GitHub-Chat/blob/main/githubbb5.jpg)
 
 ### Project Description✍️
-
 In this project, I am creating a group and individual chat system for the GitHub platform, where users can communicate about projects with other users.
 In this chat system, they can share photos, documents, links, etc. Users can chat with their followers as well as random GitHub users for discussions and idea exchanges.
 
 ### Objective✍️
-
 - Chit-chat on different projects and ideas.
 - Easy discussions on any projects and ideas.
 - Easy to interact with new people and share ideas and thoughts with them.
